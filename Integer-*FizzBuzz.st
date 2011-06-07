@@ -1,0 +1,1 @@
+'From Pharo1.2.1 of 2 April 2011 [Latest update: #12345] on 5 June 2011 at 8:33:18 pm'!!Integer methodsFor: '*FizzBuzz' stamp: 'SergeStinckwich 5/28/2011 15:38'!buzz	^ self // 5! !!Integer methodsFor: '*FizzBuzz' stamp: 'SergeStinckwich 5/28/2011 15:37'!fizz	^ self // 3! !

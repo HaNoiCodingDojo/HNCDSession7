@@ -1,6 +1,8 @@
 Coding Dojo @ Hanoi
 
-2011-04-16
+2011-06-08
 ==========
 
-Randori: TennisKata
+Randori Kata: *FizzBuzz* in **Python**
+
+Prepared Kata: *FizzBuzz* in **Squeak/Smalltalk**
