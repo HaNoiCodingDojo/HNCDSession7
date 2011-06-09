@@ -5,4 +5,4 @@ Coding Dojo @ Hanoi
 
 Randori Kata: *FizzBuzz* in **Python**
 
-Prepared Kata: *FizzBuzz* in **Squeak/Smalltalk**
+Prepared Kata: *FizzBuzz* in **Pharo/Smalltalk**
